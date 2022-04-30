@@ -89,7 +89,7 @@
 
   14. Ahora hay que hacer un `reboot` cuando aparece el mensaje `Ìnstallation is complete Please reboot`, pero no lo haremos, en lugar de eso: `node1:~# poweroff`. 
   
-  15. Una vez que el sistema está apagado, seleccionamos nuestra [***Alpine***](https://alpinelinux.org) y en ajustes de red en el apartado **Conectado a:** seleccionamos **Adaptador puente**, después en **Ajustes-Sistema** desmarcamos **Disquete y Óptica** ya que ahora no necesitamos hacer el boot desde la ISO sino desde el disco duro. Ahora volvemos a iniciar nuestra [***Alpine***](https://alpinelinux.org) y nos preguntará `node1 login:` a lo que escribimos `root` y después la contraseña que habíamos creado en paso anteriores y si todo ha ido bien nos saldrá en mensaje de bienvenida (`Welcome to Alpine!`)
+  15. Una vez que el sistema está apagado, seleccionamos nuestra [***Alpine***](https://alpinelinux.org) y en ajustes de red en el apartado **Conectado a:** seleccionamos **Adaptador puente**, después en **Ajustes-Sistema** desmarcamos **Disquete y Óptica** ya que ahora no necesitamos hacer el boot desde la ISO sino desde el disco duro. Ahora volvemos a iniciar nuestra [***Alpine***](https://alpinelinux.org) y nos preguntará `node1 login:` a lo que escribimos `root` y después la contraseña que habíamos creado en paso anteriores y si todo ha ido bien nos saldrá en mensaje de bienvenida (`Welcome to Alpine!`).
 
 
   ![12](https://user-images.githubusercontent.com/91874745/166081686-3f2d70c0-b5c0-44a6-8d7e-97fe07b1438e.png)
@@ -111,7 +111,7 @@
 
   17. Continuamos con la línea `node1:~# ip a`
   que intentaremos loguearnos con la ip que nos muestra, en este caso la segunda, pero para este paso abriremos la consola de ***Git*** y escribiremos `$ ssh root@192.168...`. Nos preguntará si estamos seguros de continuar y confirmamos con `yes` e introducimos nuestra contraseña.
-   Veremos nuevamente, pero en la `Git bash` el mensaje `Welcome to Alpine` y con esto confirmamos que no estamos usando la **VirtualBox**, sino que estamos usando un ssh client. En este punto estamos listo para instalar [***Docker***](https://www.docker.com)
+   Veremos nuevamente, pero en la `Git bash` el mensaje `Welcome to Alpine` y con esto confirmamos que no estamos usando la **VirtualBox**, sino que estamos usando un ssh client. En este punto estamos listo para instalar [***Docker***](https://www.docker.com).
    
    
   ![20 copia](https://user-images.githubusercontent.com/91874745/166082530-ca834489-7d84-4f17-a85f-9cab0500ae2e.png)
