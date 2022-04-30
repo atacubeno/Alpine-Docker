@@ -5,7 +5,7 @@
 ## ***Primer paso:*** Intalación de [***Alpine***](https://alpinelinux.org) 
 
   
-  1. Una vez instalada la [***VirtualBox***](https://www.virtualbox.org) descargamos [***Alpine***](https://alpinelinux.org) en su [página web](https://alpinelinux.org/downloads/) en la opción descargas. Hay varias opciones, elegimos la opción correcta para nuestro SO en el paratado ***Virtual***.
+  1. Una vez instalada la [***VirtualBox***](https://www.virtualbox.org) descargamos [***Alpine***](https://alpinelinux.org) en su [página web].          (https://alpinelinux.org/downloads/) en la opción descargas. Hay varias opciones, elegimos la opción correcta para nuestro SO en el paratado ***Virtual***.
 
 
   ![Captura de pantalla 2022-04-25 072649](https://user-images.githubusercontent.com/91874745/166080546-30b47c81-0103-4ae8-afbd-a8601412b19c.png)
