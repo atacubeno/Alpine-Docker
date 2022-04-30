@@ -59,7 +59,7 @@
   en:
    `Changing password for root` 
     
-   `New password`
+      `New password`
    
    ![7 copia](https://user-images.githubusercontent.com/91874745/166081188-8990b00f-7063-4d5d-ad49-cd352265ac81.png)
 
